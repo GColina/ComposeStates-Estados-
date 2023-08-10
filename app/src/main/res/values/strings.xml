@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Compose_States</string>
+    <string name="app_name">App_CV_Compose_States</string>
+
+
+    <!--NO A LOS TEXTOS HARCODEADOS!!!-->
+
+    <string name="tittle_toolbar">GColina Profile </string>
 </resources>
+
+
+
+
+
+
