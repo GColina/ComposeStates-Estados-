@@ -65,8 +65,6 @@ fun Toolbar() {
         backgroundColor = colorResource(id = R.color.backGround)
     )
 }
-
-
 @Composable
 fun Content() {
 
@@ -81,7 +79,7 @@ fun Content() {
     ) {
         item {
             Image(
-                painter = painterResource(id = R.drawable.logo_shit),
+                painter = painterResource(id = R.drawable.yo_recortado),
                 contentDescription = "Logo kk",
                 modifier = Modifier.fillMaxWidth()
             )
@@ -103,7 +101,7 @@ fun Content() {
                 color = Color.White,
                 modifier = Modifier.fillMaxWidth()
             )
-            Text(text = "Edad : 24", color = Color.White, modifier = Modifier.padding(top = 5.dp))
+            Text(text = "Edad : 25", color = Color.White, modifier = Modifier.padding(top = 5.dp))
             Text(
                 text = "5 años de experiencia como comercial",
                 color = Color.White,
